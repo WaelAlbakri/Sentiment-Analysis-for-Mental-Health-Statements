@@ -117,7 +117,7 @@ This dataset was created by aggregating and cleaning data from publicly availabl
 ## ✅ Outcome
 
 This project allowed me to analyze real-world mental health statements and identify sentiment trends across various mental health statuses.  
-I developed a full pipeline from raw data cleaning to final dashboard presentation using Python, SQL, and Power BI.  
+I developed a full pipeline from raw data cleaning to final dashboard presentation using Excel, Python, SQL, and Power BI.  
 This experience enhanced my skills in data wrangling, NLP, SQL querying, and data storytelling through visualization.
 
 ---
