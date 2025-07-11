@@ -126,7 +126,6 @@ This experience enhanced my skills in data wrangling, NLP, SQL querying, and dat
 
 | File Name                               | Description                                      |
 |----------------------------------------|--------------------------------------------------|
-| `mental_health_sentiment_data.zip`     | Cleaned data, sentiment output                  |
 | `Mental_Health_Sentiment.ipynb`        | Python notebook used in Google Colab            |
 | `mental_health_sentiment.pbix`         | Power BI dashboard file                         |
 | `Sentiment Analysis for Mental Health Statements.pdf` | Final report with full project explanation |
